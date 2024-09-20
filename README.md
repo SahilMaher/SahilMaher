@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Sahil Modhavadiya</h1>
+<h3 align="center">A SoftwareDevloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmaher&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmaher" /> </p>
 
